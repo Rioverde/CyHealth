@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850061300963",
+    "firebase_url": "https://cyhealth-ad455.firebaseio.com",
+    "project_id": "cyhealth-ad455",
+    "storage_bucket": "cyhealth-ad455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850061300963:android:fcf84ac548a9234f97a1d6",
+        "android_client_info": {
+          "package_name": "com.example.cy_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850061300963-j703r2qh5n969lgk91lkjo9c2hhie8ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp510MAm8sEkwYIdnobydwKH1p81E4kVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850061300963-j703r2qh5n969lgk91lkjo9c2hhie8ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
